@@ -7,6 +7,7 @@ This README file is using something called Marckdown. It is a language to repres
 
 ## Un subtítulo con conflicto3
 
+Este es un cambio que no causa conflicto.
 
 ##Voy a agregar un conflicto junto con el pelón
 
