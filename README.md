@@ -14,3 +14,5 @@ Este es un cambio que no causa conflicto.
 Agregando cambios en Mayo del 2016. Corrección en 'Aggregando'.
 
 ###### Esto es un h6 en markdown.
+Estaba yo pensando en algo, pero ya lo olvidé.
+
